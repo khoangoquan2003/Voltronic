@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" role="img">
+    <!-- Vòng tròn biểu tượng (tượng trưng cho bánh xe / công nghệ động lực) -->
+    <circle cx="75" cy="60" r="40" fill="none" stroke="#f15a24" stroke-width="6"/>
+
+    <!-- Dòng chữ D30 ở giữa -->
+    <text x="50%" y="68" text-anchor="middle"
+          font-family="Roboto, sans-serif"
+          font-size="36" font-weight="900"
+          fill="#1a1a1a">D30</text>
+
+    <!-- Vệt năng lượng (hiệu ứng khí thải sạch) -->
+    <path d="M30 95 Q75 115 120 95" fill="none" stroke="#f15a24" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- VOLTRONIC nhỏ bên dưới -->
+    <text x="50%" y="130" text-anchor="middle"
+          font-family="Roboto, sans-serif"
+          font-size="16" font-weight="700"
+          fill="#555">VOLTRONIC</text>
+</svg>
